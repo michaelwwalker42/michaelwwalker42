@@ -1,7 +1,5 @@
 ![hello banner](hello.gif)
 
-I'm a Full Stack Developer with a passion for learning and creating new things.   
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/Node-6DA55F?logo=node.js&logoColor=white)
@@ -14,5 +12,5 @@ I'm a Full Stack Developer with a passion for learning and creating new things.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 
-For additional questions email me at michaelwwalker42@gmail.com 
+Email me at michaelwwalker42@gmail.com 
 
